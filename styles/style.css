@@ -1,0 +1,17 @@
+body {
+    
+}
+.main_nav, ul, li {
+    margin: 0px;
+    padding: 10px;
+    display: inline;
+    list-style: none;
+    text-align: right;
+}
+.navbar {
+    text-align: right;
+}
+.main_nav, ul, li, a {
+    text-decoration: none;
+    
+}
